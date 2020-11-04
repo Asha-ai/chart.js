@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.chartContainer {
+    width: 400px;
+    height: 300px;
+}
+
+.logo span {
+    font-size: 12px;
+    margin-top: 60px;
+    margin-left: 20px;
+    display: inline-block;
+}
+
+.logo img {
+    height: 120px;
+    float: left;
+}
